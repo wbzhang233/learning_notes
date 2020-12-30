@@ -1,0 +1,9 @@
+"D:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\plotLandingTarget
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: ON
+-- Found OpenCV 3.1.0 in D:/OPENCV/mingGw-build/install/x64/mingw/lib
+-- You might need to add D:/OPENCV/mingGw-build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Code/plotLandingTarget/cmake-build-debug
